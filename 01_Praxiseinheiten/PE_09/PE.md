@@ -26,7 +26,7 @@
 ### Unterricht:
 - |Aufgabe|Angabe|Musterlösung|
   |-------|------|------------|
-  [XXX](https://classroom.github.com/a/Ttz-ofIH) | [Link](Aufgabe.md) |[Link]()
+  [Kinokarte prüfen](https://classroom.github.com/a/Ttz-ofIH) | [Link](Aufgabe.md) |[Link]()
 
 ### Hausübung:
 - |Aufgabe|Angabe|Musterlösung|
