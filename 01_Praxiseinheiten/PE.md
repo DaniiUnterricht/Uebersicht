@@ -4,7 +4,7 @@
 
 ## April 2026
 
-### Python - Grundlagen, Variablen und IF Statements <br> [PE 09 - 12.04.2026]()
+### Python - Grundlagen, Variablen und IF Statements <br> [PE 09 - 12.04.2026](/PE_09/PE.md)
 
 ### C# - Projektstruktur Aufbau CS Dateien und arbeiten mit mehreren Dateien <br> [PE 08 - 05.04.2026]()
 
