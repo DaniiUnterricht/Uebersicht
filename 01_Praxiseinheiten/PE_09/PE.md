@@ -21,12 +21,12 @@
 ### Quiz
 - |Quiz|Lösung|
   |----|------|
-  |[Link]()|[Link](../../03_Quizes/Lösung/PE_09.md)
+  |[Link](https://forms.gle/1joL5g5RfT7uGSpg9)|[Link](../../03_Quizes/Lösung/PE_09.md)
 
 ### Unterricht:
 - |Aufgabe|Angabe|Musterlösung|
   |-------|------|------------|
-  [XXX]() | [Link](Aufgabe.md) |[Link]()
+  [XXX](https://classroom.github.com/a/Ttz-ofIH) | [Link](Aufgabe.md) |[Link]()
 
 ### Hausübung:
 - |Aufgabe|Angabe|Musterlösung|
