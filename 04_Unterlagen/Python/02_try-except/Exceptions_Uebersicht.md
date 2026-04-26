@@ -1,4 +1,8 @@
-# 🐍 Python – Exceptions Übersicht
+[Hauptübersicht](../../../README.md) | [Praxiseinheiten](../../../01_Praxiseinheiten/PE.md) | [Hausübungen](../../../02_Hausübungen/Hausübungen.md) | [Quizes](../../../03_Quizes/Quizes.md) | [C# Unterlagen](../../../04_Unterlagen/CSharp/CSharp.md) | [Python Unterlagen](../../../04_Unterlagen/Python/Python.md)
+
+<- [Zurück zur Übersicht](../Python.md)
+
+# Python – Try Except -> Exceptions Übersicht
 
 ## 🧠 Was sind Exceptions?
 

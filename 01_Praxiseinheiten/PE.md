@@ -1,10 +1,12 @@
-[Zurück zur Übersicht](../README.md)
+[Hauptübersicht](../README.md) | [Praxiseinheiten](../01_Praxiseinheiten/PE.md) | [Hausübungen](../02_Hausübungen/Hausübungen.md) | [Quizes](../03_Quizes/Quizes.md) | [C# Unterlagen](../04_Unterlagen/CSharp/CSharp.md) | [Python Unterlagen](../04_Unterlagen/Python/Python.md)
 
 # Praxiseinheiten
 
 ## April 2026
 
-### Python - XXX <br> []()   
+### Python - for und while schleifen <br> [PE 11 - 26.04.2026](PE_11/PE.md)
+
+### Python - Try Except <br> [PE 10 - 19.04.2026](PE_10/PE.md)   
 
 ### Python - Grundlagen, Variablen und IF Statements <br> [PE 09 - 12.04.2026](PE_09/PE.md)
 
