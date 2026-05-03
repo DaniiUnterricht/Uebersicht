@@ -30,9 +30,8 @@
 
 - |Angabe|Musterlösung|
   |------|------------|
-  | [](../../02_Hausübungen/Angaben/PE_11/Leben-System.md) |[Link]()
-  | [](../../02_Hausübungen/Angaben/PE_11/Inventar-System.md) |[Link]()
-  | [](../../02_Hausübungen/Angaben/PE_11/Farm-System.md) |[Link]()
-  | [](../../02_Hausübungen/Angaben/PE_11/Shop-System.md) |[Link]()
+  | [Punkte-System](../../02_Hausübungen/Angaben/PE_12/Punkte-System.md) |[Link]()
+  | [Schatztruhen-System](../../02_Hausübungen/Angaben/PE_12/Schatztruhen-System.md) |[Link]()
+  | [Energie-System](../../02_Hausübungen/Angaben/PE_12/Energie-System.md) |[Link]()
 
 
