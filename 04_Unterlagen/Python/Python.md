@@ -1,4 +1,6 @@
-[Hauptübersicht](../../README.md) | [Praxiseinheiten](../../01_Praxiseinheiten/PE.md) | [Hausübungen](../../02_Hausübungen/Hausübungen.md) | [Quizes](../../03_Quizes/Quizes.md) | [C# Unterlagen](../../04_Unterlagen/CSharp/CSharp.md) | [Python Unterlagen](../../04_Unterlagen/Python/Python.md)
+<!-- LINKBAR:START -->
+[Hauptübersicht](../../README.md) | [Praxiseinheiten](../../01_Praxiseinheiten/PE.md) | [Hausübungen](../../02_Hausübungen/Hausübungen.md) | [Quizes](../../03_Quizes/Quizes.md) | [C# Unterlagen](../CSharp/CSharp.md) | [Python Unterlagen](./Python.md) | [Syppre Unterlagen](../Syppre/Syppre.md)
+<!-- LINKBAR:END -->
 
 # Python Unterlagen
 

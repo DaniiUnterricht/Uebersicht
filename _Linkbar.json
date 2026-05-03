@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hauptübersicht",
+    "path": "README.md"
+  },
+  {
+    "text": "Praxiseinheiten",
+    "path": "01_Praxiseinheiten/PE.md"
+  },
+  {
+    "text": "Hausübungen",
+    "path": "02_Hausübungen/Hausübungen.md"
+  },
+  {
+    "text": "Quizes",
+    "path": "03_Quizes/Quizes.md"
+  },
+  {
+    "text": "C# Unterlagen",
+    "path": "04_Unterlagen/CSharp/CSharp.md"
+  },
+  {
+    "text": "Python Unterlagen",
+    "path": "04_Unterlagen/Python/Python.md"
+  },
+  {
+    "text": "Syppre Unterlagen",
+    "path": "04_Unterlagen/Syppre/Syppre.md"
+  }
+]
