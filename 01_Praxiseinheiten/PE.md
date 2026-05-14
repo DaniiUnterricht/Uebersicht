@@ -6,6 +6,10 @@
 
 ## Mai 2026
 
+### C# - Dictionaries <br> [PE 14 - 24.05.2026](PE_14/PE.md)
+
+### C# - Listen <br> [PE 13 - 17.05.2026](PE_13/PE.md)
+
 ### Syppre - Agiles Projektmanagement und Scrum <br> [PE 12 - 03.05.2026](PE_12/PE.md)
 
 ## April 2026

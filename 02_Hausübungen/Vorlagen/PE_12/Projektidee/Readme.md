@@ -1,0 +1,1 @@
+Bitte in diesem Ordner eure Projektidee einpflegen
