@@ -6,7 +6,7 @@
 |:-------------------------|:-----------------:|------------------------:|
 | [PE_13](../PE_13/PE.md) | [📚 TOC](../PE.md) | [PE_15](../PE_15/PE.md) |
 
-# Praxiseinheit 14 - 24.05.2026
+# Praxiseinheit 14 - 31.05.2026
 
 ## Lerninhalt
 - [CSharp - Dictionaries - Übersicht](../../04_Unterlagen/CSharp/Kapitel_09-Dictionaries/Uebersicht.md)
@@ -18,7 +18,7 @@
 - [CSharp - Dictionaries - Typische Fehler](../../04_Unterlagen/CSharp/Kapitel_09-Dictionaries/Typische_Fehler.md)
 
 ---
-- 
+- [MiniÜbung](Uebung/Program.cs)
 
 ## Lernziele
 - Was sind Dictionaries
@@ -28,15 +28,13 @@
 ## Aufgaben
 
 ### Quiz
-- [Link](https://forms.gle/oYPny27zw9qBtuiv6)
+- 
 
 ### Übungen:
-- [Einschreibelink](https://classroom.github.com/a/S1NtxAeZ)
-
 - |Angabe|Musterlösung|
   |------|------------|
-  | [Punkte-System](../../02_Hausübungen/Angaben/PE_12/Punkte-System.md) |[Link]()
-  | [Schatztruhen-System](../../02_Hausübungen/Angaben/PE_12/Schatztruhen-System.md) |[Link]()
-  | [Energie-System](../../02_Hausübungen/Angaben/PE_12/Energie-System.md) |[Link]()
+  | [Woerterbuch-System](../../02_Hausübungen/Angaben/PE_14/Woerterbuch-System.md) |[Link]()
+  | [Inventar-System](../../02_Hausübungen/Angaben/PE_14/Inventar-System.md) |[Link]()
+  | [Lagerverwaltung](../../02_Hausübungen/Angaben/PE_14/Lagerverwaltung.md) |[Link]()
 
 

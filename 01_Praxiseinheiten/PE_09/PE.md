@@ -1,34 +1,45 @@
-[Zurück zur Übersicht](../../README.md)
-| ◀ Previous               | Table of Contents |                  Next ▶ |
-|:-------------------------|:-----------------:|------------------------:|
-| [PE_08](../PE_08/PE.md) | [📚 TOC](../PE.md) | [PE_10](../PE_10/PE.md) |
+<!-- LINKBAR:START -->
+[Hauptübersicht](../../README.md) |
+[Praxiseinheiten](../README.md) |
+[Hausübungen](../../02_hausuebungen/README.md) |
+[Quizes](../../03_quizes/README.md) |
+[C# Unterlagen](../../04_unterlagen/csharp/README.md) |
+[Python Unterlagen](../../04_unterlagen/python/README.md) |
+[Syppre Unterlagen](../../04_unterlagen/syppre/README.md)
+<!-- LINKBAR:END -->
 
-# Praxiseinheit 09 - 12.04.2026
+| ◀ Previous | Table of Contents | Next ▶ |
+|:-----------|:-----------------:|-------:|
+| [PE 008](../PE_008/README.md) | [📚 TOC](../README.md) | [PE 010](../PE_010/README.md) |
+
+# Praxiseinheit 009
+
+## Grundlagen
+### 12.04.2026  
+### Python
 
 ## Lerninhalt
-- [Grundlagen - Einführung](../../04_Unterlagen/Python/01_Grundlagen/Einführung.md)
 
----
-- [Mini-Übungen](Mini-Übungen/Program.py)
+- [Grundlagen - Einführung](../../04_unterlagen/python/01_grundlagen/einfuehrung.md)
+
+## Unterrichtsbeispiele
+
+- [Mini-Übungen](uebung/README.md)
 
 ## Lernziele
-- Unterschied zwischen Python und C# Verstehen
-- Eingabe / Ausgabe verstehen
-- IF Bedinungen verstehen
 
-## Aufgaben
+- Unterschied zwischen Python und C# verstehen
+- Eingabe und Ausgabe verstehen
+- Bedingungen mit `if` verstehen
 
-### Quiz
-- |Quiz|Lösung|
-  |----|------|
-  |[Link](https://forms.gle/1joL5g5RfT7uGSpg9)|[Link](../../03_Quizes/Lösung/PE_09.md)
+## Übungen
 
-### Unterricht:
-- |Aufgabe|Angabe|Musterlösung|
-  |-------|------|------------|
-  [Kinokarte prüfen](https://classroom.github.com/a/Ttz-ofIH) | [Link](Aufgabe.md) |[Link]()
+| Übung | Angabe | Abgabe | Lösung |
+|---|---|---|---|
+| Kinokarte prüfen | [Angabe](aufgaben/kinokarte-pruefen.md) | über Schüler-App | wird später freigeschaltet |
 
-### Hausübung:
-- |Aufgabe|Angabe|Musterlösung|
-  |-------|------|------------|
-  [XXX]() | [Link](../../02_Hausübungen/Angaben/) |[Link]()
+## Quiz
+
+| Quiz | Bearbeitung | Lösung |
+|---|---|---|
+| Quiz 009 - Python Grundlagen | über Schüler-App | wird später freigeschaltet |

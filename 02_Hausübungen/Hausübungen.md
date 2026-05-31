@@ -2,9 +2,16 @@
 [Hauptübersicht](../README.md) | [Praxiseinheiten](../01_Praxiseinheiten/PE.md) | [Hausübungen](./Hausübungen.md) | [Quizes](../03_Quizes/Quizes.md) | [C# Unterlagen](../04_Unterlagen/CSharp/CSharp.md) | [Python Unterlagen](../04_Unterlagen/Python/Python.md) | [Syppre Unterlagen](../04_Unterlagen/Syppre/Syppre.md)
 <!-- LINKBAR:END -->
 
-# Hausübungen
+# Übungen
 
 ## Mai 2026
+
+### PE 14 - 31.05.2026 - C# - Dictionaries
+| Angabe | Musterlösung |
+|--------|--------------|
+| [Woerterbuch-System](Angaben/PE_14/Woerterbuch-System.md) |[Link]()
+| [Inventar-System](Angaben/PE_14/Inventar-System.md) |[Link]()
+| [Lagerverwaltung](Angaben/PE_14/Lagerverwaltung.md) |[Link]()
 
 ### PE 12 - 03.05.2026 - Syppre - Agiles Projektmanagement und Scrum
 | Angabe | Musterlösung |

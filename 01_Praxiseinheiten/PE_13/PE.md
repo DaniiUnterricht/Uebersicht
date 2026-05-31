@@ -18,7 +18,7 @@
 - [CSharp - Listen - Typische Fehler](../../04_Unterlagen/CSharp/Kapitel_08-Listen/Typische_Fehler.md)
 
 ---
-- 
+- [Mini-Übung](Uebung/Program.cs)
 
 ## Lernziele
 - Was sind Listen
