@@ -4,6 +4,10 @@
 
 # Praxiseinheiten
 
+## Juni 2026
+
+### C# - Objektorentierung <br> [PE 15 - 07.06.2026](PE_15/PE.md)
+
 ## Mai 2026
 
 ### C# - Dictionaries <br> [PE 14 - 31.05.2026](PE_14/PE.md)
