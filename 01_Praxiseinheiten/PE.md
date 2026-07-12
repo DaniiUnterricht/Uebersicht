@@ -4,6 +4,10 @@
 
 # Praxiseinheiten
 
+## Juli 2026
+
+### C# - Objektorentierung Kapselung und Objekte miteinander verbinden <br> [PE 16 - 12.07.2026](PE_16/PE.md)
+
 ## Juni 2026
 
 ### C# - Objektorentierung <br> [PE 15 - 07.06.2026](PE_15/PE.md)
