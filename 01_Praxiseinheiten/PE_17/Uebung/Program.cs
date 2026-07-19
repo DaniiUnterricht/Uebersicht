@@ -13,22 +13,26 @@ namespace Uebung
             Fahrrad fahrrad = new Fahrrad("KTM", 21);
 
             //Vervollständige mit Auto 70km/h, Motorrad 90 km/h, Fahrrad 25 km/h
-            auto.Beschleunigen(________);
-            motorrad.Beschleunigen(________);
-            fahrrad.Beschleunigen(________);
+            auto.Beschleunigen(70);
+            motorrad.Beschleunigen(90);
+            fahrrad.Beschleunigen(25);
 
             //Speichere alle Fahrzeuge in einer Liste
             List<Fahrzeug> fahrzeuge = new List<Fahrzeug>
             {
-                ___________________,
-                ___________________,
-                ___________________
+                auto,
+                motorrad,
+                fahrrad,
+                new Auto("Renault", 3)
             };
+
+            //Hier wird jetzt die Geschwindigkeit vom zuvor definierten Renault gesetzt ( Durch Aufruf mit Index )
+            fahrzeuge[3].Beschleunigen(60);
 
             //Durchlaufe die Liste und gibt ZeigeInfo() aus
             foreach (Fahrzeug fahrzeug in fahrzeuge)
             {
-                ____________________________
+                fahrzeug.ZeigeInfo();
                 Console.WriteLine();
             }
             //Obwohl die Variable innerhalb der Schleife vom Typ Fahrzeug ist, soll jeweils die passende Methode von Auto, Motorrad oder Fahrrad ausgeführt werden.
@@ -51,25 +55,25 @@ namespace Uebung
             //Fragen zum Abschluss:
             /*
             1.) Von welcher Klasse erbt Auto?
-
+            Fahrzeug.cs -> class Fahrzeug
             ---
             2.) Welche Properties übernimmt Motorrad von Fahrzeug?
-
+            Marke und Geschwindigkeit
             ---
             3.) Was bewirkt base(marke) ?
-
+            Es Führt den Konstruktor von Fahrzeug aus.
             ---
             4.) Warum ist ZeigeInfo() in Fahrzeug als virtual definiert?
-
+            Dadurch wird erlaubt, dass die abgeleiteten Klassen diese Methode Überschreiben können.
             ---
             5.) Was bewirkt override?
-
+            Überschreibt die Methode der Basis Klasse komplett.
             ---
-            6.) Warum können Auto, Motorrad und Fahrrad gemeinsam in einer List<Fahrzeug> gespeichert werden?
-
+            6.) Wie kann ich dennoch diesen Code aus der Methode in der Basisklasse auch in der abgeleiteten Klasse ausführen lassen? ( beim override )
+            base.Methodenname();
             ---
-            7.) Welche Methode wird bei einem Auto innerhalb der Schleife ausgeführt?
-
+            7.) Warum können Auto, Motorrad und Fahrrad gemeinsam in einer List<Fahrzeug> gespeichert werden?
+            Weil alle die selbe Basis Klasse ( Fahrzeug ) besitzen.
             ---
             */
 
