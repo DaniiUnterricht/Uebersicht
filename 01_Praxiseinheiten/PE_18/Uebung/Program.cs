@@ -11,6 +11,7 @@ List<Spielstand> spielstaende = new()
 string csvPfad = "spielstaende.csv";
 string jsonPfad = "spielstaende.json";
 
+//Müsse wir machen, da SpielstandService nicht static ist
 SpielstandService spielstandService = new();
 
 Console.WriteLine("=== Neuen Spielstand anlegen ===");
@@ -29,11 +30,11 @@ int punkte = ZahlEinlesen("Punkte: ");
 
 // TODO 1:
 // Erstelle aus spielername, level und punkte ein neues Spielstand-Objekt.
-Spielstand neuerSpielstand = null!;
+Spielstand neuerSpielstand = new Spielstand(spielername, level, punkte);
 
 // TODO 2:
 // Füge neuerSpielstand zur Liste spielstaende hinzu.
-
+spielstaende.Add(neuerSpielstand);
 
 // Die eigentliche Dateiverarbeitung befindet sich im SpielstandService.
 spielstandService.ExportiereCsv(spielstaende, csvPfad);

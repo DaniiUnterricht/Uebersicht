@@ -16,14 +16,14 @@ public class SpielstandService
             // TODO 3:
             // Erstelle aus dem aktuellen Spielstand eine CSV-Zeile.
             // Format: Spielername;Level;Punkte
-            string csvZeile = "";
+            string csvZeile = $"{spielstand.Spielername};{spielstand.Level};{spielstand.Punkte}";
 
             csvZeilen.Add(csvZeile);
         }
 
         // TODO 4:
         // Speichere csvZeilen mit File.WriteAllLines() in dateiPfad.
-
+        File.WriteAllLines(dateiPfad, csvZeilen);
 
         Console.WriteLine();
         Console.WriteLine("CSV-Datei wurde exportiert.");
@@ -57,8 +57,11 @@ public class SpielstandService
 
             // TODO 5:
             // Wandle werte[1] und werte[2] mit int.Parse() in Zahlen um.
-            int level = 0;
-            int punkte = 0;
+            if (!int.TryParse(werte[1], out int level) || !int.TryParse(werte[2], out int punkte))
+            {
+                Console.WriteLine("Level oder Punkte sind Fehlerhaft");
+                continue;
+            }
 
             Console.WriteLine(
                 $"Spieler: {spielername} | Level: {level} | Punkte: {punkte}"
@@ -76,7 +79,7 @@ public class SpielstandService
         // TODO 6:
         // Wandle spielstaende mit JsonSerializer.Serialize() in einen JSON-String um.
         // Übergib dabei auch die Variable optionen.
-        string json = "";
+        string json = JsonSerializer.Serialize(spielstaende,optionen);
 
         File.WriteAllText(dateiPfad, json);
 
