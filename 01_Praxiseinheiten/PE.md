@@ -6,6 +6,10 @@
 
 ## Juli 2026
 
+### C# - Dateiverarbeitung mit CSV und JSON <br> [PE 18 - 26.07.2026](PE_18/PE.md)
+
+### C# - Vererbung und Polymorphie <br> [PE 17 - 19.07.2026](PE_17/PE.md)
+
 ### C# - Objektorentierung Kapselung und Objekte miteinander verbinden <br> [PE 16 - 12.07.2026](PE_16/PE.md)
 
 ## Juni 2026

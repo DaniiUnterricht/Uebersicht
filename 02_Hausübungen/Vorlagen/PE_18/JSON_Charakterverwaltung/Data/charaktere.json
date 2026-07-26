@@ -1,0 +1,71 @@
+[
+  {
+    "Id": 1,
+    "Name": "Liora",
+    "Klasse": "Magierin",
+    "Level": 8,
+    "Gold": 240,
+    "Inventar": [
+      {
+        "Id": 1,
+        "Name": "Manatrank",
+        "Kategorie": "Trank",
+        "Wert": 25,
+        "Anzahl": 3
+      },
+      {
+        "Id": 2,
+        "Name": "Alter Zauberstab",
+        "Kategorie": "Waffe",
+        "Wert": 120,
+        "Anzahl": 1
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Borin",
+    "Klasse": "Handwerker",
+    "Level": 5,
+    "Gold": 180,
+    "Inventar": [
+      {
+        "Id": 3,
+        "Name": "Eisenhammer",
+        "Kategorie": "Werkzeug",
+        "Wert": 80,
+        "Anzahl": 1
+      },
+      {
+        "Id": 4,
+        "Name": "Eisenerz",
+        "Kategorie": "Material",
+        "Wert": 10,
+        "Anzahl": 12
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Mira",
+    "Klasse": "Waldläuferin",
+    "Level": 6,
+    "Gold": 205,
+    "Inventar": [
+      {
+        "Id": 5,
+        "Name": "Kurzbogen",
+        "Kategorie": "Waffe",
+        "Wert": 95,
+        "Anzahl": 1
+      },
+      {
+        "Id": 6,
+        "Name": "Pfeil",
+        "Kategorie": "Munition",
+        "Wert": 2,
+        "Anzahl": 30
+      }
+    ]
+  }
+]
