@@ -4,6 +4,10 @@
 
 # Praxiseinheiten
 
+## August 2026
+
+### C# - Interfaces, Enums und Events mit Delegates <br> [PE 19 - 02.08.2026](PE_19/PE.md)
+
 ## Juli 2026
 
 ### C# - Dateiverarbeitung mit CSV und JSON <br> [PE 18 - 26.07.2026](PE_18/PE.md)
