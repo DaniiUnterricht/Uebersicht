@@ -13,3 +13,5 @@
 ### [Python](04_Unterlagen/Python/Python.md)
 
 ### [Syppre](04_Unterlagen/Syppre/Syppre.md)
+
+### [Godot](04_Unterlagen/Godot/Godot.md)

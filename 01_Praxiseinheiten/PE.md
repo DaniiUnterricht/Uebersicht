@@ -6,6 +6,8 @@
 
 ## August 2026
 
+### Godot - Grundlagen, C# Verbinden und UI / Events <br> [PE 20 - 09.08.2026](PE_20/PE.md)
+
 ### C# - Interfaces, Enums und Events mit Delegates <br> [PE 19 - 02.08.2026](PE_19/PE.md)
 
 ## Juli 2026
