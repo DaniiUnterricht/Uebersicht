@@ -4,21 +4,21 @@
 
 | ◀ Previous               | Table of Contents |                  Next ▶ |
 |:-------------------------|:-----------------:|------------------------:|
-| [PE_19](../PE_19/PE.md) | [📚 TOC](../PE.md) | [PE_21](../PE_21/PE.md) |
+| [PE_20](../PE_20/PE.md) | [📚 TOC](../PE.md) | [PE_22](../PE_22/PE.md) |
 
-# Praxiseinheit 20 - 09.08.2026
+# Praxiseinheit 21 - 16.08.2026
 
 ## Lerninhalt
-- [Grundlagen](../../04_Unterlagen/Godot/Kapitel_01-Einfuehrung/Grundlagen.md)
-- [C# Grundlagen in Godot](../../04_Unterlagen/Godot/Kapitel_01-Einfuehrung/CSharp_Grundlagen_in_Godot.md)
+- [UI und Signale](../../04_Unterlagen/Godot/Kapitel_02-Signale/UI_und_Signale.md)
+- [UI Zustände und Interaktionen](../../04_Unterlagen/Godot/Kapitel_02-Signale/UI_Zustaende_und_Interaktionen.md)
 
 ---
 - 
 
 ## Lernziele
-- Wie ist Godot aufgebaut
-- Wie verbindet man C# mit Godot
-- Erste Funktion in Godot
+- Signale verstehen und Anwenden
+- Die Verschiedenen Möglichkeiten mit Buttons zu arbeiten
+- Wie man Enums verwenden kann
 
 ## Aufgaben
 
