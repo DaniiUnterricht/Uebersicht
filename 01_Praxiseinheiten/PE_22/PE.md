@@ -4,19 +4,19 @@
 
 | ◀ Previous               | Table of Contents |                  Next ▶ |
 |:-------------------------|:-----------------:|------------------------:|
-| [PE_20](../PE_20/PE.md) | [📚 TOC](../PE.md) | [PE_22](../PE_22/PE.md) |
+| [PE_21](../PE_21/PE.md) | [📚 TOC](../PE.md) | [PE_23](../PE_23/PE.md) |
 
-# Praxiseinheit 21 - 16.08.2026
+# Praxiseinheit 22 - 23.08.2026
 
 ## Lerninhalt
-- [UI und Signale](../../04_Unterlagen/Godot/Kapitel_02-Signale/UI_und_Signale.md)
+- [UI Zustände und Interaktionen](../../04_Unterlagen/Godot/Kapitel_02-Signale/UI_Zustaende_und_Interaktionen.md)
 
 ---
 - 
 
 ## Lernziele
-- Signale verstehen und Anwenden
-- Die Verschiedenen Möglichkeiten mit Buttons zu arbeiten
+- Wie man Enums verwenden kann
+- Methoden auslagern
 
 ## Aufgaben
 

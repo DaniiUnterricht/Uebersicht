@@ -6,7 +6,9 @@
 
 ## August 2026
 
-### Godot - UI Signale, Zustände und Interaktionen <br> [PE 21 - 16.08.2026](PE_21/PE.md)
+### Godot - UI Zustände und Interaktionen <br> [PE 22 - 23.08.2026](PE_22/PE.md)
+
+### Godot - UI Signale <br> [PE 21 - 16.08.2026](PE_21/PE.md)
 
 ### Godot - Grundlagen, C# Verbinden und UI / Events <br> [PE 20 - 09.08.2026](PE_20/PE.md)
 
