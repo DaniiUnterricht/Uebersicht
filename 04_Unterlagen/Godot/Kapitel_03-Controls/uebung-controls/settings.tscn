@@ -1,0 +1,67 @@
+[gd_scene format=3 uid="uid://dlia5wss57iij"]
+
+[ext_resource type="Script" uid="uid://b4j2xhmhes2wb" path="res://Settings.cs" id="1_x2hje"]
+
+[node name="Settings" type="Control" unique_id=1930587098]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_x2hje")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=2001378665]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="VBoxContainer" unique_id=982558790]
+layout_mode = 2
+text = "Kapitel 3 - Controls und Settings"
+horizontal_alignment = 1
+
+[node name="FullscreenCheckBox" type="CheckBox" parent="VBoxContainer" unique_id=1069791595]
+layout_mode = 2
+text = "Vollbild"
+
+[node name="MusicCheckButton" type="CheckButton" parent="VBoxContainer" unique_id=149470864]
+layout_mode = 2
+text = "Musik"
+
+[node name="VolumeSlider" type="HSlider" parent="VBoxContainer" unique_id=1465196563]
+layout_mode = 2
+value = 50.0
+
+[node name="VolumeValueLabel" type="Label" parent="VBoxContainer" unique_id=1483678604]
+layout_mode = 2
+text = "Lautstärke: 50"
+
+[node name="ResolutionOptionButton" type="OptionButton" parent="VBoxContainer" unique_id=1509270861]
+layout_mode = 2
+
+[node name="PlayerNameLineEdit" type="LineEdit" parent="VBoxContainer" unique_id=112751935]
+layout_mode = 2
+placeholder_text = "Spielername"
+alignment = 1
+
+[node name="BrightnessSlider" type="HSlider" parent="VBoxContainer" unique_id=768501984]
+layout_mode = 2
+value = 75.0
+
+[node name="BrightnessValueLabel" type="Label" parent="VBoxContainer" unique_id=1740225766]
+layout_mode = 2
+text = "Helligkeit: 75"
+
+[node name="LanguageOptionButton" type="OptionButton" parent="VBoxContainer" unique_id=571348748]
+layout_mode = 2
+
+[node name="ApplyButton" type="Button" parent="VBoxContainer" unique_id=1856758381]
+layout_mode = 2
+text = "Übernehmen"
+
+[node name="StatusLabel" type="Label" parent="VBoxContainer" unique_id=1198783956]
+layout_mode = 2
